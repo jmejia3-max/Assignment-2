@@ -56,11 +56,10 @@ justify-content: center;
 
 /* Footer */
 
-#main-footer {
-background-color: #111;
-color: white;
-text-align: center;
-padding: 15px;
+#main-footer a {
+color: #ffffff;
+text-decoration: underline;
+font-weight: bold;
 }
 
 /* Images */
